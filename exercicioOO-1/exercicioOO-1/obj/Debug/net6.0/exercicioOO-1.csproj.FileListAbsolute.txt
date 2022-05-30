@@ -1,0 +1,15 @@
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\bin\Debug\net6.0\exercicioOO-1.exe
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\bin\Debug\net6.0\exercicioOO-1.deps.json
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\bin\Debug\net6.0\exercicioOO-1.runtimeconfig.json
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\bin\Debug\net6.0\exercicioOO-1.dll
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\bin\Debug\net6.0\exercicioOO-1.pdb
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.csproj.AssemblyReference.cache
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.AssemblyInfoInputs.cache
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.AssemblyInfo.cs
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.csproj.CoreCompileInputs.cache
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.dll
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\refint\exercicioOO-1.dll
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.pdb
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\exercicioOO-1.genruntimeconfig.cache
+C:\ProjetosFlavia\Udemy-OO\exercicioOO-1\exercicioOO-1\obj\Debug\net6.0\ref\exercicioOO-1.dll

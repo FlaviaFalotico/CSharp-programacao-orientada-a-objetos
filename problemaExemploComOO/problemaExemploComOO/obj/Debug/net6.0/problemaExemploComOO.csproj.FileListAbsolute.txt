@@ -1,0 +1,15 @@
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\bin\Debug\net6.0\problemaExemploComOO.exe
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\bin\Debug\net6.0\problemaExemploComOO.deps.json
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\bin\Debug\net6.0\problemaExemploComOO.runtimeconfig.json
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\bin\Debug\net6.0\problemaExemploComOO.dll
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\bin\Debug\net6.0\problemaExemploComOO.pdb
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.csproj.AssemblyReference.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.AssemblyInfoInputs.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.AssemblyInfo.cs
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.csproj.CoreCompileInputs.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.dll
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\refint\problemaExemploComOO.dll
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.pdb
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\problemaExemploComOO.genruntimeconfig.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploComOO\problemaExemploComOO\obj\Debug\net6.0\ref\problemaExemploComOO.dll

@@ -1,0 +1,15 @@
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\bin\Debug\net6.0\problemaExemploSemOO.exe
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\bin\Debug\net6.0\problemaExemploSemOO.deps.json
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\bin\Debug\net6.0\problemaExemploSemOO.runtimeconfig.json
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\bin\Debug\net6.0\problemaExemploSemOO.dll
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\bin\Debug\net6.0\problemaExemploSemOO.pdb
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.csproj.AssemblyReference.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.AssemblyInfoInputs.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.AssemblyInfo.cs
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.csproj.CoreCompileInputs.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.dll
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\refint\problemaExemploSemOO.dll
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.pdb
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\problemaExemploSemOO.genruntimeconfig.cache
+C:\ProjetosFlavia\Udemy-OO\problemaExemploSemOO\problemaExemploSemOO\obj\Debug\net6.0\ref\problemaExemploSemOO.dll
